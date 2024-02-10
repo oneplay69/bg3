@@ -1,0 +1,127 @@
+"AppState"
+{
+	"appid"		"1086940"
+	"Universe"		"1"
+	"LauncherPath"		""
+	"name"		"Baldur\'s Gate 3"
+	"StateFlags"		"4"
+	"installdir"		"Baldurs Gate 3"
+	"LastUpdated"		"0"
+	"SizeOnDisk"		"151283967190"
+	"StagingSize"		"0"
+	"buildid"		"13283683"
+	"LastOwner"		"None"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1086941"
+		{
+			"manifest"		"459593416284343996"
+			"size"		"146735828897"
+		}
+		"1086942"
+		{
+			"manifest"		"17875152607970122"
+			"size"		"573"
+		}
+		"1086943"
+		{
+			"manifest"		"8679870241690845100"
+			"size"		"15720233"
+		}
+		"1086944"
+		{
+			"manifest"		"3868851973200708782"
+			"size"		"14237414"
+		}
+		"1086945"
+		{
+			"manifest"		"4961036587778452183"
+			"size"		"15438058"
+		}
+		"1086946"
+		{
+			"manifest"		"6241031099534982284"
+			"size"		"16725934"
+		}
+		"1086947"
+		{
+			"manifest"		"6233845346321725653"
+			"size"		"24204713"
+		}
+		"1086948"
+		{
+			"manifest"		"8921589053440142836"
+			"size"		"32672636"
+		}
+		"1086949"
+		{
+			"manifest"		"8767825083790310392"
+			"size"		"14346201"
+		}
+		"1419650"
+		{
+			"manifest"		"2875344189575124981"
+			"size"		"15213667"
+		}
+		"1419651"
+		{
+			"manifest"		"8461309693214297818"
+			"size"		"13477928"
+		}
+		"1419652"
+		{
+			"manifest"		"310067637950140776"
+			"size"		"213200990"
+		}
+		"1419653"
+		{
+			"manifest"		"6482788985781190030"
+			"size"		"387569960"
+		}
+		"1419658"
+		{
+			"manifest"		"503145170112999469"
+			"size"		"14018506"
+		}
+		"1419668"
+		{
+			"manifest"		"3810959385918386279"
+			"size"		"20836586"
+		}
+		"1419669"
+		{
+			"manifest"		"6889200386126453230"
+			"size"		"20172680"
+		}
+		"2330350"
+		{
+			"manifest"		"3465183295478412414"
+			"size"		"15829799"
+		}
+		"2330351"
+		{
+			"manifest"		"1434343333690850705"
+			"size"		"14304618"
+		}
+		"2378500"
+		{
+			"manifest"		"6453229909780803137"
+			"size"		"3700167797"
+			"dlcappid"		"2378500"
+		}
+	}
+	"SharedDepots"
+	{
+		"228989"		"228980"
+		"228990"		"228980"
+	}
+}
